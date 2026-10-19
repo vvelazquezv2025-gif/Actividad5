@@ -1,0 +1,4 @@
+﻿modelo,estado,id_corrida,param_validacion_cruzada,param_modelo__max_depth,param_algoritmo,param_modelo__n_estimators,param_semilla,param_modelo__min_samples_leaf,metrica_recall,metrica_roc_auc,metrica_f1,metrica_precision,metrica_f1_cv_mejor,metrica_accuracy,param_modelo__C,param_modelo__class_weight
+Random_Forest,FINISHED,19b99b8cc5ce48a5bd3a7707c0a8c909,StratifiedKFold_5,None,Random_Forest,100,42,1,0.9285714285714286,0.9928902116402116,0.9629629629629629,1.0,0.9519447457150247,0.9736842105263158,,
+Regresion_Logistica,FINISHED,531ef12c3c2f416c93efae06dd0ce97e,StratifiedKFold_5,,Regresion_Logistica,,42,,0.9761904761904762,0.9976851851851852,0.9879518072289156,1.0,0.9671455449666695,0.9912280701754386,0.1,balanced
+Regresion_Logistica,FINISHED,0e26ac2a58d84017a80d0b79dbc2a5ec,StratifiedKFold_5,,Regresion_Logistica,,42,,0.9761904761904762,0.9976851851851852,0.9879518072289156,1.0,0.9671455449666695,0.9912280701754386,0.1,balanced
